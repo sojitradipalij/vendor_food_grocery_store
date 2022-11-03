@@ -1,6 +1,8 @@
 # vendor_food_grocery_store
 
-A new Flutter project.
+This Application is a Progressive Web App.
+
+Progressive Web Apps (PWAs) are web apps that use service workers, manifests, and other web-platform features in combination with progressive enhancement to give users an experience on par with native apps
 
 ## Getting Started
 
